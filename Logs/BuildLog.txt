@@ -1,0 +1,20 @@
+[ 299/1051  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Data/46b433b264c69cbd39f04ad2e5d12be8
+[ 597/1051  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Data/b1ce2ee81f7bd24d1e48cec4fa13c064
+[ 597/1051  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Data/34c1c1232ad50de47bde0e4799ae6610
+[ 981/1051  0s] Csc artifacts/Tiny3D.dll/tiny3d-asmjs-tiny3d/Tiny3D.dll (+2 others)
+[ 982/1051  0s] ILPostProcessorRunner artifacts/Tiny3D/tiny3d-asmjs-tiny3d/post_ilprocessing/Tiny3D.dll (+pdb)
+[ 983/1051  1s] TypeRegGen artifacts/Tiny3D/tiny3d-asmjs-tiny3d/post_typereg/Tiny3D.dll (+59 others)
+[ 984/1051  5s] UnityLinker artifacts/Tiny3D/tiny3d-asmjs-tiny3d_stripped/Tiny3D.dll (+59 others)
+[BUSY       6s] Il2Cpp artifacts/Tiny3D/tiny3d-asmjs-tiny3d_stripped/il2cpp-src/driver.cpp (+58 others)
+[BUSY      16s] Il2Cpp artifacts/Tiny3D/tiny3d-asmjs-tiny3d_stripped/il2cpp-src/driver.cpp (+58 others)
+[ 985/1051 22s] Il2Cpp artifacts/Tiny3D/tiny3d-asmjs-tiny3d_stripped/il2cpp-src/driver.cpp (+58 others)
+Running il2cpp.exe in workstation GC mode.
+[1044/1051  2s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/0ycq/Tiny3D.o
+[BUSY       6s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/Tiny3D.html (+3 others)
+[BUSY      16s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/Tiny3D.html (+3 others)
+[1045/1051 18s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/Tiny3D.html (+3 others)
+[1046/1051  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Tiny3D.mem
+[1046/1051  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Tiny3D.js
+[1048/1051  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Tiny3D.asm.js
+[1049/1051  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Tiny3D.html
+*** Bee build success (52.48 seconds), 14 items updated
